@@ -1,0 +1,6 @@
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\GrandCircusCSharpBootcampLabs\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.exe.config
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\GrandCircusCSharpBootcampLabs\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.exe
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\GrandCircusCSharpBootcampLabs\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.pdb
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\GrandCircusCSharpBootcampLabs\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.csprojResolveAssemblyReference.cache
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\GrandCircusCSharpBootcampLabs\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.exe
+C:\Users\peter\OneDrive\Documents\Visual Studio 2015\Projects\GrandCircusCSharpBootcampLabs\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.pdb
