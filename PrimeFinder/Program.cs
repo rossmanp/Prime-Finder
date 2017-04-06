@@ -25,7 +25,7 @@ namespace PrimeFinder
             {
                 if (isPrime(i))
                 {
-                    primeCounter++;
+                    primeCounter++;                   
                 }
                 lastPrime = i;
             }
@@ -62,7 +62,7 @@ namespace PrimeFinder
                 try
                 {
                     myInt = int.Parse(Console.ReadLine());
-                    if (myInt < 1)
+                    if (myInt < 2)
                     {
                         throw new IndexOutOfRangeException();
                     }
