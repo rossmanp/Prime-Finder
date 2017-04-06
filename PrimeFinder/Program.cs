@@ -62,7 +62,7 @@ namespace PrimeFinder
                 try
                 {
                     myInt = int.Parse(Console.ReadLine());
-                    if (myInt < 2)
+                    if (myInt < 1)
                     {
                         throw new IndexOutOfRangeException();
                     }
